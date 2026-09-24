@@ -1,8 +1,4 @@
 {
-  "crons": [
-    {
-      "path": "/api/cron/sync-all",
-      "schedule": "*/30 * * * *" 
-    }
-  ]
+  
+  
 }
